@@ -56,7 +56,7 @@ Example:
 <script src="furu_code_logo.js"></script>
 ```
 
-3.  カスタム `<furu_code_logo> </furu_code_logo>`を`body`タグ内にタグに使用すると「FURU CODE (フルコードロゴ)」がレンダーされます。
+3.  カスタム `<furu_code_logo></furu_code_logo>`を`body`タグ内にタグに使用すると「FURU CODE (フルコードロゴ)」がレンダーされます。
 
 例：
 
